@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me riya28@uw.edu
 - 😄 Pronouns: she her
-- ⚡ Fun fact: This is my first offical year coding
+- ⚡ Fun fact: I am a student at UW 
 
 <!---
 RiyaAffrin/RiyaAffrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
