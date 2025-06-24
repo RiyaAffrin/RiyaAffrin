@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RiyaAffrin
 - 👀 I’m interested in creating new projects
-- 🌱 I’m currently learning Java as my first language
+- 🌱 Ive worked in Java, C, Dart, python and javascript
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me riya28@uw.edu
 - 😄 Pronouns: she her
